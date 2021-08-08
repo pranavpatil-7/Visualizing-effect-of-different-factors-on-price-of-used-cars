@@ -1,4 +1,4 @@
-# Visualizing-effect-of-different-factors-on-price-of-used-cars
+# Visualizing-effects-of-different-factors-on-price-of-used-cars
 A project in Python and Tableau
 
 The dataset that I have chosen for this project is the Used Cars Dataset (Vehicles listings from Craigslist.org). This dataset contains all the information that Craigslist provides on car sales
